@@ -49,5 +49,5 @@ options:
 
 ## 0x05 Screenshots
 
-![Screenshots](.\Screenshots.png)
+![Screenshots](https://github.com/colind0pe/zentao_sqli_poc/blob/master/Screenshots.png?raw=true)
 
